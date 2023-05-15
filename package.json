@@ -1,0 +1,25 @@
+{
+  "name": "park",
+  "version": "1.0.0",
+  "description": "a park demonstrator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahidul-islam/park.git"
+  },
+  "author": "Zihan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahidul-islam/park/issues"
+  },
+  "homepage": "https://github.com/mahidul-islam/park#readme",
+  "dependencies": {
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.5"
+  }
+}
